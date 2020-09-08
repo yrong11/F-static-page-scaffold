@@ -42,3 +42,30 @@ ul {
   font-size: 32px;
   font-weight: bold;
 }
+
+.content {
+  width: 930px;
+  margin: auto;
+}
+
+.main-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 45px;
+}
+
+.main-section-figure{
+  text-align: center;
+  background-color: white;
+  padding: 30px;
+  margin: 5px;
+}
+
+.figure-content {
+  color: gray;
+    font-size: 14px;
+}
+
+.start-btn {
+  margin-top: 60px;
+}
